@@ -1,0 +1,40 @@
+﻿  main.cpp
+E:\Visual2019Projects\uml\uml\Manager.h(15,29): error C2061: syntax error: identifier 'Service'
+E:\Visual2019Projects\uml\uml\Manager.h(30,12): error C2065: 'Service': undeclared identifier
+E:\Visual2019Projects\uml\uml\Manager.h(30,20): error C2059: syntax error: '>'
+E:\Visual2019Projects\uml\uml\Manager.h(18,27): error C2065: 'price': undeclared identifier
+E:\Visual2019Projects\uml\uml\Manager.h(21,28): error C2065: 'price': undeclared identifier
+E:\Visual2019Projects\uml\uml\Manager.h(23,29): error C2065: 'service': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(11,27): error C2061: syntax error: identifier 'Customer'
+E:\Visual2019Projects\uml\uml\Service.h(23,10): error C2143: syntax error: missing ';' before '*'
+E:\Visual2019Projects\uml\uml\Service.h(23,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual2019Projects\uml\uml\Service.h(23,24): error C2238: unexpected token(s) preceding ';'
+E:\Visual2019Projects\uml\uml\Service.h(24,10): error C2143: syntax error: missing ';' before '*'
+E:\Visual2019Projects\uml\uml\Service.h(24,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual2019Projects\uml\uml\Service.h(24,24): error C2238: unexpected token(s) preceding ';'
+E:\Visual2019Projects\uml\uml\Service.h(25,9): error C2143: syntax error: missing ';' before '*'
+E:\Visual2019Projects\uml\uml\Service.h(25,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual2019Projects\uml\uml\Service.h(25,23): error C2238: unexpected token(s) preceding ';'
+E:\Visual2019Projects\uml\uml\Service.h(12,3): error C2065: 'm_CustomerIn': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(12,18): error C2065: 'CustomerIn': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(13,3): error C2065: 'm_carservice': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(13,18): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(14,3): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(15,3): error C2065: 'm_ExecutorIn': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(15,18): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(16,3): error C2065: 'm_ExecutorIn': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(16,29): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Service.h(17,30): error C2065: 'price': undeclared identifier
+E:\Visual2019Projects\uml\uml\Executor.h(15,26): error C2061: syntax error: identifier 'Vehicle'
+E:\Visual2019Projects\uml\uml\Executor.h(41,9): error C2143: syntax error: missing ';' before '*'
+E:\Visual2019Projects\uml\uml\Executor.h(41,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual2019Projects\uml\uml\Executor.h(41,28): error C2238: unexpected token(s) preceding ';'
+E:\Visual2019Projects\uml\uml\Executor.h(16,3): error C2065: 'm_CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Executor.h(16,23): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Executor.h(17,20): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Executor.h(18,29): error C2065: 'CustomerVehicle': undeclared identifier
+E:\Visual2019Projects\uml\uml\Executor.h(32,33): error C2065: 'service': undeclared identifier
+E:\Visual2019Projects\uml\uml\Customer.h(22,1): error C2660: 'Service::MakeService': function does not take 3 arguments
+E:\Visual2019Projects\uml\uml\Service.h(11,7): message : see declaration of 'Service::MakeService'
+E:\Visual2019Projects\uml\uml\Customer.h(25,1): error C2660: 'Service::MakeService': function does not take 3 arguments
+E:\Visual2019Projects\uml\uml\Service.h(11,7): message : see declaration of 'Service::MakeService'

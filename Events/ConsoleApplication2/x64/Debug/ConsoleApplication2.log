@@ -1,0 +1,6 @@
+﻿  EventBookC++.cpp
+C:\Users\maksi\OneDrive\Рабочий стол\ConsoleApplication2\ConsoleApplication2\BinTree.h(36,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\maksi\OneDrive\Рабочий стол\ConsoleApplication2\ConsoleApplication2\BinTree.h(46,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\maksi\OneDrive\Рабочий стол\ConsoleApplication2\ConsoleApplication2\BinTree.h(398,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maksi\OneDrive\Рабочий стол\ConsoleApplication2\ConsoleApplication2\BinTree.h(266): warning C4715: 'BinTree::remove': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\maksi\OneDrive\Рабочий стол\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
